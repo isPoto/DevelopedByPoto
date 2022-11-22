@@ -1,4 +1,4 @@
-# DevelopedByPoto
+# Developed By Poto
 
 Boring Software for Win
 
