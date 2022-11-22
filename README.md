@@ -2,6 +2,7 @@
 
 [Snooze](https://t.me/PotoChannel/142) is a screen close tool
 
+---
 
 Boring Software for Win
 
