@@ -1,4 +1,4 @@
-# Developed By Poto
+# Developed by Poto
 
 [Snooze](https://t.me/PotoChannel/142) is a screen close tool
 
